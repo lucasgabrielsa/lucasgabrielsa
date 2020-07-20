@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ILink Solutions as Software Engineer 
-- 🌱 I’m currently learning React and GO
+- 🌱 I’m currently learning React and Go
 - 📫 How to reach me: 
 
 <br/>
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <br/>
 
-- ⚡ Fun fact: We are always learning, no matter what.. ✨
+
 
