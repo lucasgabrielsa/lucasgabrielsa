@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ILink Solutions as Software Engineer 
+- ☕ Java is my main language 
 - 🌱 I’m currently learning React and Go
 - 📫 How to reach me: 
 
