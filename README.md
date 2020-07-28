@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas Gabriel, Software Engineer from Brazil 👋
 
-Here are some ideas to get you started:
+A little bit about me..
 
 - 🔭 I’m currently working on ILink Solutions as Software Engineer 
 - ☕ Java is my main language 
@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-
-
-
