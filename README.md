@@ -2,7 +2,7 @@
 
 A little bit about me..
 
-- 🔭 I’m currently working on ILink Solutions as Software Engineer 
+- 🔭 I’m currently working on iLink Solutions as Software Engineer 
 - ☕ Java is my main language 
 - 🌱 I’m currently learning React and Go
 - 📫 How to reach me: 
