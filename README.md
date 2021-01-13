@@ -4,7 +4,7 @@ A little bit about me..
 
 - 🔭 I’m currently working on iLink Solutions as Software Engineer 
 - ☕ Java is my main language 
-- 🌱 I’m currently learning React and Go
+- 🌱 Java11, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, Gradle, GitHub, Microservices, Kubernetes & Google Cloud
 - 📫 How to reach me: 
 
 <br/>
