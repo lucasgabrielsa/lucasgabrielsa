@@ -1,5 +1,11 @@
 ### Hi there, I'm Lucas Gabriel, Software Engineer from Brazil 👋
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabrielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 A little bit about me..
 
 - 🔭 I’m currently working at iLink Solutions as Software Engineer 
@@ -20,9 +26,4 @@ A little bit about me..
 <a href="https://www.instagram.com/lucasgabrielsa/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabrielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
