@@ -2,10 +2,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabrielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 A little bit about me..
 
 - 🔭 I’m currently working at iLink Solutions as Software Engineer 
