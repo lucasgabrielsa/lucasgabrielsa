@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Gabriel, Software Engineer from Brazil 👋
+### Hi there, I'm Lucas Gabriel, Software Engineer 👋
 
 <br/>
 
@@ -6,7 +6,7 @@ A little bit about me..
 
 - 🔭 I’m currently working at iLink Solutions as Software Engineer 
 - ☕ Java is my main language 
-- 🌱 Java11, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, Gradle, GitHub, Microservices, Kubernetes & Google Cloud
+- 🌱 Java, Kotlin, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, Gradle, GitHub, Microservices, Kubernetes & Google Cloud
 - 📫 How to reach me: 
 
 <br/>
