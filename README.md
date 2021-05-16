@@ -4,7 +4,7 @@
 
 A little bit about me..
 
-- 🔭 I’m currently working at iLink Solutions as Software Engineer 
+- 🔭 I’m currently working at WAES as Software Engineer 
 - ☕ Java is my main language 
 - 🌱 Java, Kotlin, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, Gradle, GitHub, Microservices, Kubernetes & Google Cloud
 - 📫 How to reach me: 
