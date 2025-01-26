@@ -4,8 +4,8 @@
 
 A little bit about me..
 
-- 🔭 I’m currently working as Software Engineer 
-- ☕ Java is my main language 
+- 🔭 I’m currently working as a Software Engineer 
+- ☕ Java and Kotlin are my favorite languages
 - 🌱 Java, Kotlin, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, Gradle, GitHub, Microservices, Kubernetes & Google Cloud
 - 📫 How to reach me: 
 
